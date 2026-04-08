@@ -17,6 +17,7 @@ public class Person {
         this.age = age;
     }
 
+
     public void talk (String text){
         System.out.println(fullName + " talk \"" + text + "\".");
     }

@@ -209,6 +209,7 @@ public class HW4 {
         atm.withdraw(30);    // ошибка: нет купюры 10
         atm.withdraw(5000);  // ошибка: недостаточно средств
 
+
         // Добавляем денег
         atm.addMoney(5, 2, 1);
 

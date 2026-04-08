@@ -31,6 +31,7 @@ public class Calculator {
         return a / b;
     }
 
+
     // Метод умножения
     public double multiply(double a, double b) {
         return a * b;
