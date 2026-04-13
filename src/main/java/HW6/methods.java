@@ -3,8 +3,8 @@ package HW6;
 public class methods {
     public static class ExceptionHandler {
 
-        private double[] values = {12.5, 8.3, 0.0, 15.7};
-        private String[] labels = {"alpha", "beta", null, "gamma"};
+        private final double[] values = {12.5, 8.3, 0.0, 15.7};
+        private final String[] labels = {"alpha", "beta", null, "gamma"};
 
         // Метод 1: базовый try-catch
         public void calculateRatio(double numerator, double divisor) {
