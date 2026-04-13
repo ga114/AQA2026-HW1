@@ -3,7 +3,7 @@ package HW7;
 import java.util.Scanner;
 
 public class Task3 {
-    //Задача 3: Ввести 3 строки с консоли. Вывести на консоль те строки, длина которых меньше средней, а также их длину
+    //Задача 3: Ввести 3 строки с консоли. Вывести на консоль те строки, длина которых меньше средней, а также их длину.
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

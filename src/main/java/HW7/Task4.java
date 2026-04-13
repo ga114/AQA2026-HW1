@@ -20,7 +20,7 @@ public class Task4 {
 
         sc.close();
 
-        // Разбиваем строки на слова и ищем первое с уникальными символами
+        // Разбиваем строки на слова и ищем первое с уникальными символами.
         String result = findFirstUniqueWord(s1);
 
         if (result == null) {
